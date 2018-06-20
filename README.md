@@ -1,4 +1,4 @@
 # merck
 radiomics
 
-merck whls and radiomics team
+useful whls on radiomics team
